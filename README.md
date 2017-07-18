@@ -33,6 +33,7 @@ Original github can be found here: https://github.com/epicodus-lessons/went-to-b
 * Users can remove items from the shopping cart without a page reload. The "delete" link should result in the item being removed from the shopping cart and the total price being updated.
 * Ensure that users can't order a negative number of items.
 * Add product validations.
+* Allow other than whole dollar amounts for admin product creation (for instance, 3.99).
 
 
 ### License
