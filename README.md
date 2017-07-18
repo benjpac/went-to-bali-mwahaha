@@ -34,7 +34,8 @@ Original github can be found here: https://github.com/epicodus-lessons/went-to-b
 * Ensure that users can't order a negative number of items.
 * Add product validations.
 * Allow other than whole dollar amounts for admin product creation (for instance, 3.99).
-
+* Add password validations to ensure a user's password is sufficiently complex.
+* Add admin links to navbar so admins can easily add, update and delete products.
 
 ### License
 
