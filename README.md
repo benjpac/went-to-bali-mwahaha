@@ -31,6 +31,8 @@ Original github can be found here: https://github.com/epicodus-lessons/went-to-b
 * Users can add products to their shopping cart from the index page with AJAX. The item should be added to the shopping cart and the number of items in the cart (shown in the navbar) should update.
 * Users can click on a product and show/hide the product detail using AJAX. The product detail should include an image (either Paperclip or an image link), the description, and any other fields you choose to add.
 * Users can remove items from the shopping cart without a page reload. The "delete" link should result in the item being removed from the shopping cart and the total price being updated.
+* Ensure that users can't order a negative number of items.
+* Add product validations.
 
 
 ### License
