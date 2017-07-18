@@ -9,7 +9,8 @@ class UsersController < ApplicationController
       session[:user_id] = user.id
       redirect_to '/'
     else
-      redirect_to '/signup'
+      flash[:alert] = "Password not 8 characters"
+      redirect_to '/sign_up'
     end
   end
 
